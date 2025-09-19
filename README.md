@@ -358,22 +358,7 @@ JobPilot.Ai is proud to be part of **GirlScript Summer of Code 2025**! We welcom
 ✅ **Meet project deadlines and requirements**
 ✅ **Use meaningful commit messages and PR descriptions**
 
-### 🏅 Contribution Points System:
 
-<div align="center">
-
-| 🏷️ **Type** | 📊 **Difficulty** | ⭐ **Points** | 📝 **Examples** |
-|:---:|:---:|:---:|:---:|
-| 🐛 **Bug Fix** | 🟢 Easy | **10** | UI fixes, typos, minor issues |
-| 🐛 **Bug Fix** | 🟡 Medium | **25** | Logic errors, API issues |
-| 🐛 **Bug Fix** | 🔴 Hard | **45** | Complex algorithms, performance |
-| ✨ **Feature** | 🟢 Easy | **10** | Simple components, basic forms |
-| ✨ **Feature** | 🟡 Medium | **25** | API integrations, complex UI |
-| ✨ **Feature** | 🔴 Hard | **45** | AI/ML features, system design |
-| 📚 **Documentation** | - | **5-10** | README, guides, code comments |
-| 🧪 **Testing** | - | **5-15** | Unit tests, integration tests |
-
-</div>
 
 ### 🎯 Special Opportunities:
 
