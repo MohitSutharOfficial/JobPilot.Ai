@@ -6,9 +6,9 @@ JobPilot.Ai is an innovative platform designed to make you job-ready through cut
 
 <div align="center">
 
-![GSSoC Extended 2024](https://gssoc.girlscript.tech/badges/gssocextended.png)
+[![GSSoC 2025](assets/gssoc.png)](https://gssoc.girlscript.tech/)
 
-### 🎉 Part of GirlScript Summer of Code Extended 2024! 🎉
+### 🎉 Part of GirlScript Summer of Code 2025! 🎉
 
 </div>
 
