@@ -328,14 +328,14 @@ All contributors are celebrated! We offer:
 
 <div align="center">
 
-![GSSoC Extended 2024](https://img.shields.io/badge/GSSoC-Extended%202024-orange?style=for-the-badge&logo=girlscript&logoColor=white)
+![GSSoC 2025](https://img.shields.io/badge/GSSoC-Extended%202025-orange?style=for-the-badge&logo=girlscript&logoColor=white)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 </div>
 
-**🎯 Important for GSSoC Extended 2024 Contributors**: 
+**🎯 Important for GSSoC 2025 Contributors**:
 
-JobPilot.Ai is proud to be part of **GirlScript Summer of Code Extended 2024**! We welcome contributors of all skill levels to join our mission of revolutionizing job preparation through AI.
+JobPilot.Ai is proud to be part of **GirlScript Summer of Code 2025**! We welcome contributors of all skill levels to join our mission of revolutionizing job preparation through AI.
 
 <div align="center">
 
