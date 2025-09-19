@@ -129,40 +129,6 @@ JobPilot.Ai leverages artificial intelligence to create a personalized, comprehe
 
 </div>
 
-## ✨ Features
-
-### � AI Interview Simulator
-- **Smart Question Generation**: Dynamic questions based on your profile and target role
-- **Real-time Speech Analysis**: Voice tone, pace, and clarity assessment
-- **Facial Expression Feedback**: Confidence and engagement analysis
-- **Industry-Specific Scenarios**: Tailored interviews for different domains
-
-### 💻 Coding Practice Hub
-- **FAANG Problem Sets**: Curated problems from top tech companies
-- **Multiple Programming Languages**: Support for Python, Java, C++, JavaScript, and more
-- **Auto-graded Solutions**: Instant feedback with optimized solution suggestions
-- **Progress Tracking**: Visual progress maps and skill development charts
-
-### 🏗️ System Design Mastery
-- **Interactive Design Workshops**: Step-by-step system building exercises
-- **Scalability Scenarios**: Real-world scaling challenges and solutions
-- **Architecture Patterns**: Common design patterns and their applications
-- **Case Study Library**: Detailed breakdowns of popular system architectures
-
-### 🧠 Aptitude & Reasoning
-- **Quantitative Aptitude**: Mathematical problem-solving exercises
-- **Logical Reasoning**: Pattern recognition and analytical thinking tests
-- **Verbal Ability**: Communication and comprehension assessments
-- **Timed Practice Sessions**: Simulate real exam conditions
-
-### � Analytics Dashboard
-- **Performance Metrics**: Comprehensive scoring and improvement tracking
-- **Skill Gap Analysis**: Identify areas needing focus
-- **Comparative Analytics**: Benchmark against industry standards
-- **Personalized Recommendations**: AI-driven study plan suggestions
-
-
-
 ## 🛠️ Technologies Used
 
 ### Frontend
